@@ -12,3 +12,5 @@ The technologies we use was:
 The programing languages we use: 
 
 - JavaScript
+
+For more information i join the report so please read it.
