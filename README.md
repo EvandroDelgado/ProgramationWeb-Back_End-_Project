@@ -1,8 +1,9 @@
 # ProgramationWeb-Back_End-_Project
-In this curricular unit we learn programation for the server side.
+In this curricular unit we learn programation for the server side but also implement the client side.
 
 The technologies we use was:
 
+- HTML, CSS, Bootstrap, jquery;
 - Node;
 - Express;
 - MongoDB;
