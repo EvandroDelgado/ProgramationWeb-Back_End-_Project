@@ -8,7 +8,7 @@ The technologies we use was:
 - Express;
 - MongoDB;
 - Authentication with token;
-- Ajax to consume API's(nomemailer,chart.js)
+- Ajax to consume API's(nodemailer,chart.js)
 
 The programing languages we use: 
 
